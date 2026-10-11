@@ -1,0 +1,7 @@
+{
+  "name": "MediCare Pro - Hospital Management System",
+  "description": "Comprehensive full-stack enterprise Hospital Management System with multi-role portals (Admin, Doctor, Patient, Nurse, Receptionist, Pharmacy, Lab, Accountant), clinical workflows, EMR, inpatient bed management, pharmacy inventory, lab diagnostics, billing, and complete Spring Boot + MySQL academic codebase suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
